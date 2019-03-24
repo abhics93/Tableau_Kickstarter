@@ -10,11 +10,11 @@ North America has the highest number of projects followed by a far second, Great
 
 Let us look into the categories that are present for these projects. From the graph below we see that projects in Kickstarter are majorly the creative type (Film and Video, Music, Publishing, Games, etc.)
 
- ![Project categories](https://user-images.githubusercontent.com/46550460/54884518-763f9100-4e48-11e9-8f13-5e49d539e6b3.png)
+ ![Project categories](https://user-images.githubusercontent.com/46550460/54884709-8d7f7e00-4e4a-11e9-85ae-af218895404e.png)
 
 Upon selecting (clicking) on a category, the visualization displays sub-categories within the selection. Below we have sub-categories in the main category Comics. The ‘state’ variable shows whether the project has been successful, failed, cancelled, is live, suspended or undefined. By grouping, we use three main categories of projects as shown below…
  
- ![Project sub categories](https://user-images.githubusercontent.com/46550460/54884517-763f9100-4e48-11e9-8aa0-107086c64b17.png)
+ ![Project sub categories](https://user-images.githubusercontent.com/46550460/54884710-8d7f7e00-4e4a-11e9-9317-23c88e40ce8b.png)
 
 The three visualizations above are combined to form a dashboard using Tableau and is converted to an interactive format.
 
