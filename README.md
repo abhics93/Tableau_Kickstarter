@@ -20,7 +20,8 @@ The three visualizations above are combined to form a dashboard using Tableau an
 
 ![Dashboard 1](https://user-images.githubusercontent.com/46550460/54884516-763f9100-4e48-11e9-8e9c-29a280f6f509.png)
 
-If you had a project idea to pitch, what category does it fall in and how likely is your project to fail? ‘What are the chances you will fail?’
+If you had a project idea to pitch, what category does it fall in and how likely is your project to fail? 
+‘What are the chances you will fail?’
  
 ![Dashboard 2](https://user-images.githubusercontent.com/46550460/54884515-75a6fa80-4e48-11e9-9347-0da3cb1eba83.png)
   
